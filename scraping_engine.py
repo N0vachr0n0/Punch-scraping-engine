@@ -1,4 +1,5 @@
 import sys, time
+import subprocess as sub
 
 try:
     import scrapy
